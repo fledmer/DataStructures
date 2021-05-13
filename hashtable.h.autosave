@@ -1,0 +1,12 @@
+#ifndef HASHTABLE_H
+#define HASHTABLE_H
+
+template<class T, class C>
+class HashTable
+{
+    typedef t  ;
+public:
+    HashTable();
+};
+
+#endif // HASHTABLE_H
